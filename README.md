@@ -1,3 +1,2 @@
-![Uploading Captura de pantalla 2023-12-11 235429 - copia.png…]()
-
+![Captura de pantalla 2023-12-11 235429](https://github.com/ElArteaga/SEMAFORO-PROYECTO/assets/151809318/dc97163b-118a-4560-a416-4caf32577683)
 # SEMAFORO-PROYECTO
